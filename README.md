@@ -1,25 +1,39 @@
-# Hi there, i`m Angelina
- ### :hammer_and_wrench: Languages and Tools :
+<h1 align="center">
+ <p>Hi there, i`m Angelina</p>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="125"/>
+ 
+</h1>
+
+ <h3 align="center">
+ <p> :hammer_and_wrench: Languages and Tools:</p>
+</h1>
+
  <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>&nbsp;
+ 
+  [![My Skills](https://skillicons.dev/icons?i=js,css,html,sass,webpack,nodejs,vscode,git,figma&theme=light)](https://skillicons.dev)
+ 
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ritter1111&theme=dark&background=000000)](https://git.io/streak-stats)
+ <h3 align="center">
+ <p> 🌱 I`m currently learning...</p>
 
-[![Top Langs](https://github-readme-stats-livid-ten-67.vercel.app/api/top-langs/?username=Ritter1111&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
+ 
+</h1>
+
+<div align="center">
+ 
+ <h3>:fire: My Stats:</h2>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritter1111&show_icons=true&theme=radical)
+ 
+<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ritter1111&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
+[![Top Langs](https://github-readme-stats-livid-ten-67.vercel.app/api/top-langs/?username=Ritter1111&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/angelina-liapin-3a5050211/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
