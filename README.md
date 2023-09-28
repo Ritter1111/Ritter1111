@@ -10,14 +10,9 @@
 
  <div align="center">
  
-  [![My Skills](https://skillicons.dev/icons?i=js,css,html,sass,webpack,nodejs,vscode,git,figma&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,css,html,sass,webpack,nodejs,vscode,ts,react,git,figma&theme=light)](https://skillicons.dev)
  
 </div>
-
- <h3 align="center">
- <p> 🌱 I`m currently learning...</p>
-
-  [![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
  
 </h1>
 
